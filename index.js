@@ -1,4 +1,4 @@
 // write your code below!
-var = happyHolidays
+//var = happyHolidays
 function(happyHolidays)
  return "Happy holidays!";
